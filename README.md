@@ -11,6 +11,6 @@
 [![](https://visitcount.itsvg.in/api?id=jademonfray&icon=2&color=10)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/www.paypal.me/jademonfray) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jademonfray) 
 
  
