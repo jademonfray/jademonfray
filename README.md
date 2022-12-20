@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=jademonfray&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jademonfray&theme=dracula&hide_border=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=jademonfray&icon=2&color=10)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
